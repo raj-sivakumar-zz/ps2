@@ -1,6 +1,6 @@
-# ps2
-\n
+# ps2<br>
 Assignment 2 for Applied Machine Learning, Spring 2017
-\n
+<br>
 Scrapes twitter for data regarding Nancy Pelosi and puts in dataframe.
-\nScrapes GovTrack API for info about cybersecurity related bills and saves as data frame.
+<br>
+Scrapes GovTrack API for info about cybersecurity related bills and saves as data frame.
